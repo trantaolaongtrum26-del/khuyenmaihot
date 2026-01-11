@@ -1,6 +1,6 @@
 
 // --- CẤU HÌNH LINK TELEGRAM TẠI ĐÂY ---
-const telegramLink = "https://t.me/TenNickTelegramCuaBan";
+const telegramLink = "https://t.me/cskh_hupcode";
 
 // --- 1. Cấu hình Slider ---
 var swiper = new Swiper(".mySwiper", {
@@ -85,3 +85,4 @@ btnCheck.addEventListener('click', function () {
         }
     }, 2000);
 });
+
